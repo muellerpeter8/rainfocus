@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rainfocus/static/css/main.ecf612f2.css",
+    "main.js": "/rainfocus/static/js/main.9829b671.js",
+    "static/js/453.ed3810f9.chunk.js": "/rainfocus/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/rainfocus/index.html",
+    "main.ecf612f2.css.map": "/rainfocus/static/css/main.ecf612f2.css.map",
+    "main.9829b671.js.map": "/rainfocus/static/js/main.9829b671.js.map",
+    "453.ed3810f9.chunk.js.map": "/rainfocus/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf612f2.css",
+    "static/js/main.9829b671.js"
+  ]
+}

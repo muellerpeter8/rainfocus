@@ -20,7 +20,7 @@ function Step1con() {
             </div>
         </section>
     );
-}
+} 
 function Step2con() {
     return (
         <section className='Step2-con Steps-con'>

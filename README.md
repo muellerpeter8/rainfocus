@@ -7,7 +7,7 @@ The Main branch will allow you to view my source code. Just navigate in to the '
 + OrgSettings.js
 + App.css
 
-The images folder also includes images I pulled from the Figma file but they are very interesting. 
+The images folder also includes images I pulled from the Figma file but they aren't very interesting. 
 
 ## To view the page in a browser
 

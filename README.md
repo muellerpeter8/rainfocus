@@ -1,6 +1,6 @@
-# Welcome to the Rainfocus Front-End Developer Assessment for Peter Mueller
+# Welcome to the RainFocus UI Developer Assessment for Peter Mueller
 
-The Main branch will allow you to view my source code. Just navigate in to the 'src' folder to view my code. The files to view are as follows:
+The Main branch will allow you to view my source code. Just navigate into the 'src' folder to view my code. The files to view are as follows:
 
 + App.js
 + PageHeading.js

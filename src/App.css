@@ -1,6 +1,13 @@
 html {
     font-size: 10px;
 }
+:root {
+    --btn-purple: #5C00DC;
+    --bkg-purple: #393551;
+    --border-grey1: #ccc;
+    --border-grey2: #bbb;
+    --dark-bg-text: #fff;
+}
 p {
     font-size: 1.2rem;
 }
@@ -29,8 +36,8 @@ h1 {
     line-height: 2.2rem;
 }
 .Btn-cta1 {
-    background-color: #5C00DC;
-    color: #fff;
+    background-color: var(--btn-purple);
+    color: var(--dark-bg-text);
     font-size: 1.4rem;
     max-width: 10rem;
     padding: .8rem 1.6rem;
@@ -48,7 +55,7 @@ h1 {
 }
 .OrgSettings {
     margin-block: 3.5rem;
-    border-top: 1px solid #bbb;
+    border-top: 1px solid var(--border-grey2);
     padding-block-start: 2.5rem;
 }
 .OrgSettings-header h3 {
@@ -82,7 +89,7 @@ h1 {
     grid-template-rows: auto;
 }
 .Contentsection-con {
-    border: 1px solid #ccc;
+    border: 1px solid var(--border-grey1);
     border-radius: 5px;
     display: grid;
 }
@@ -114,13 +121,13 @@ h1 {
     margin-block: .4rem;
 }
 .Bg-purple {
-    background: #393551;
+    background-color: var(--bkg-purple);
 }
 .ChildWidthMixed {
     padding: 4rem;
 }
 .Darkbg {
-    color: #fff;
+    color: var(--dark-bg-text);
 }
 .ChildWidthMixed .Contentsection-con:first-child {
     grid-area: mixChild1;
